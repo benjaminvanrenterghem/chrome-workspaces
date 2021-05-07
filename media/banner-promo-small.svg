@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="banner-promo-small.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1137">
+      <stop
+         id="stop1135"
+         offset="0"
+         style="stop-color:#ffecb3;stop-opacity:1" />
+      <stop
+         id="stop1133"
+         offset="1"
+         style="stop-color:#fffde7;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1137"
+       id="linearGradient1139"
+       x1="122.14218"
+       y1="162.96692"
+       x2="95.920982"
+       y2="-16.470285"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="matrix(2.0909093,0,0,2.4285713,-382.6737,-27.96354)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient1137"
+       id="linearGradient1139-1"
+       x1="122.14218"
+       y1="162.96692"
+       x2="95.920982"
+       y2="-16.470285"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-307.68534"
+     inkscape:cy="921.17783"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:url(#linearGradient1139);fill-opacity:1;stroke:none;stroke-width:3.5999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.39215686;paint-order:fill markers stroke"
+       id="rect4518"
+       width="116.41666"
+       height="74.083336"
+       x="29.399649"
+       y="25.454159"
+       ry="0"
+       inkscape:export-filename="/home/vojta/Plocha/banner-small.png"
+       inkscape:export-xdpi="96.000023"
+       inkscape:export-ydpi="96.000023" />
+    <g
+       transform="matrix(0.15342829,0,0,0.16846254,41.807982,-10.601938)"
+       id="g5105"
+       inkscape:export-filename="/home/vojta/Plocha/banner-small.png"
+       inkscape:export-xdpi="96.000023"
+       inkscape:export-ydpi="96.000023">
+      <rect
+         inkscape:export-filename="/home/vojta/Projekty/chrome-workspaces/app/icons/extension/icon16.png"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:15.50521088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke"
+         id="rect4873"
+         width="127.91792"
+         height="127.91792"
+         x="-224.93816"
+         y="446.97824"
+         ry="11.962589"
+         transform="matrix(0.85299027,-0.52192681,0.85299027,0.52192681,0,0)"
+         inkscape:export-xdpi="6.7682304"
+         inkscape:export-ydpi="6.7682304" />
+      <rect
+         inkscape:export-filename="/home/vojta/Projekty/chrome-workspaces/app/icons/extension/icon16.png"
+         inkscape:export-ydpi="6.7682304"
+         inkscape:export-xdpi="6.7682304"
+         transform="matrix(0.85299027,-0.52192681,0.85299027,0.52192681,0,0)"
+         ry="12.121113"
+         y="421.04437"
+         x="-199.00433"
+         height="127.91792"
+         width="127.91792"
+         id="rect978-5"
+         style="fill:#2979ff;fill-opacity:1;stroke:#2979ff;stroke-width:15.50433254;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cssc"
+         inkscape:connector-curvature="0"
+         id="path846"
+         d="m 397.41955,368.58478 -88.70479,54.2766 c -5.65301,3.45895 -14.75494,3.45895 -20.40795,0 l -88.70479,-54.2766"
+         style="opacity:1;fill:none;fill-opacity:0.04637679;stroke:#535d6c;stroke-width:12.86542606;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:0.04637679;stroke:#535d6c;stroke-width:12.86542606;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 397.41955,408.36992 -88.70479,54.2766 c -5.65301,3.45895 -14.75494,3.45895 -20.40795,0 l -88.70479,-54.2766"
+         id="path848"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.86815071px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11901113"
+       x="44.919708"
+       y="87.903877"
+       id="text5136"
+       inkscape:export-filename="/home/vojta/Plocha/banner-small.png"
+       inkscape:export-xdpi="96.000023"
+       inkscape:export-ydpi="96.000023"><tspan
+         sodipodi:role="line"
+         id="tspan5134"
+         x="44.919708"
+         y="87.903877"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.11901113">Workspaces</tspan></text>
+    <rect
+       style="opacity:1;fill:url(#linearGradient1139-1);fill-opacity:1;stroke:none;stroke-width:8.11232853;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.39215686;paint-order:fill markers stroke"
+       id="rect4518-9"
+       width="243.41667"
+       height="179.91667"
+       x="-321.20172"
+       y="33.853718"
+       ry="0"
+       inkscape:export-filename="/home/vojta/Plocha/banner-large.png"
+       inkscape:export-xdpi="96.000023"
+       inkscape:export-ydpi="96.000023" />
+    <g
+       transform="matrix(0.37975587,0,0,0.41696769,-312.8546,-54.091373)"
+       id="g5105-3"
+       inkscape:export-filename="/home/vojta/Plocha/banner-large.png"
+       inkscape:export-xdpi="96.000023"
+       inkscape:export-ydpi="96.000023">
+      <rect
+         inkscape:export-filename="/home/vojta/Projekty/chrome-workspaces/app/icons/extension/icon16.png"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:15.50521088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke"
+         id="rect4873-3"
+         width="127.91792"
+         height="127.91792"
+         x="-224.93816"
+         y="446.97824"
+         ry="11.962589"
+         transform="matrix(0.85299027,-0.52192681,0.85299027,0.52192681,0,0)"
+         inkscape:export-xdpi="6.7682304"
+         inkscape:export-ydpi="6.7682304" />
+      <rect
+         inkscape:export-filename="/home/vojta/Projekty/chrome-workspaces/app/icons/extension/icon16.png"
+         inkscape:export-ydpi="6.7682304"
+         inkscape:export-xdpi="6.7682304"
+         transform="matrix(0.85299027,-0.52192681,0.85299027,0.52192681,0,0)"
+         ry="12.121113"
+         y="421.04437"
+         x="-199.00433"
+         height="127.91792"
+         width="127.91792"
+         id="rect978-5-8"
+         style="fill:#2979ff;fill-opacity:1;stroke:#2979ff;stroke-width:15.50433254;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cssc"
+         inkscape:connector-curvature="0"
+         id="path846-0"
+         d="m 397.41955,368.58478 -88.70479,54.2766 c -5.65301,3.45895 -14.75494,3.45895 -20.40795,0 l -88.70479,-54.2766"
+         style="opacity:1;fill:none;fill-opacity:0.04637679;stroke:#535d6c;stroke-width:12.86542606;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:0.04637679;stroke:#535d6c;stroke-width:12.86542606;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 397.41955,408.36992 -88.70479,54.2766 c -5.65301,3.45895 -14.75494,3.45895 -20.40795,0 l -88.70479,-54.2766"
+         id="path848-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:33.10672379px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24830042"
+       x="-288.55661"
+       y="182.42436"
+       id="text5136-6"
+       inkscape:export-filename="/home/vojta/Plocha/banner-large.png"
+       inkscape:export-xdpi="96.000023"
+       inkscape:export-ydpi="96.000023"><tspan
+         sodipodi:role="line"
+         id="tspan5134-6"
+         x="-288.55661"
+         y="182.42436"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:0.24830042">Workspaces</tspan></text>
+  </g>
+</svg>

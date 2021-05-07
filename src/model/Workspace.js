@@ -1,7 +1,7 @@
 import { assert, randomString } from "../Utils.js"
 import WorkspaceList from "./WorkspaceList.js"
 import WorkspaceTab from "./WorkspaceTab.js"
-import Storage from "./Storage.js"
+import LocalStorage from "../storage/LocalStorage.js"
 import { scheduleSuspend } from "../TabSuspend.js"
 
 const Workspace = {
@@ -11,7 +11,7 @@ const Workspace = {
 		}
 
 		const workspace = {
-			id: `${Storage.WORKSPACE_PREFIX}${randomString(8)}`,
+			id: `${LocalStorage.WORKSPACE_PREFIX}${randomString(8)}`,
 			name, color, tabs
 		}
 
@@ -22,19 +22,19 @@ const Workspace = {
 	},
 
 	async get(workspaceId) {
-		return await Storage.get(workspaceId)
+		return await LocalStorage.get(workspaceId)
 	},
 
 	async save(workspace) {
 		assert(Array.isArray(workspace.tabs))
 		assert(workspace.tabs.every(tab => typeof tab === "object"))
 
-		await Storage.set(workspace.id, workspace)
+		await LocalStorage.set(workspace.id, workspace)
 	},
 
 	async remove(workspaceId) {
 		await WorkspaceList.remove(workspaceId)
-		await Storage.remove(workspaceId)
+		await LocalStorage.remove(workspaceId)
 	},
 
 	async open(workspaceId) {

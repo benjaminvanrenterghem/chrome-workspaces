@@ -25,6 +25,7 @@
     "default_popup": "popup/popup.html"
   },
   "permissions": [
+    "bookmarks",
     "storage",
     "tabs",
     "tabGroups"

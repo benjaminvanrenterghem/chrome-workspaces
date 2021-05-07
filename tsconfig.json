@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "lib": ["es2018", "dom"],
+    "types": ["./src/lib/chrome-extension-async"]
+  }
+}

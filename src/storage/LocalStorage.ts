@@ -1,9 +1,7 @@
 import { assert } from "../Utils.js";
 
-const Storage = {
-	OPTIONS: "options",
-	WORKSPACE_LIST: "workspaceList",
-	WORKSPACE_PREFIX: "workspace_",
+const LocalStorage = {
+	_observers: [],
 
 	async get(key) {
 		if (!key) return null
@@ -28,36 +26,28 @@ const Storage = {
 	},
 
 	async update(key, updater) {
-		const value = await this.get(key)
+		const value = await LocalStorage.get(key)
 
-		await this.set(key, updater(value))
+		await LocalStorage.set(key, updater(value))
 	},
 
 	async remove(key) {
 		await chrome.storage.local.remove(key)
 	},
 
-	async sync() {
-
+	subscribe(observer) {
+		LocalStorage._observers.push(observer)
 	},
 
-	onChange: {
-		_observers: [],
-
-		subscribe(observer) {
-			this._observers.push(observer)
-		},
-
-		notify(key, value) {
-			this._observers.forEach(observer => observer(key, value))
-		}
+	notify(key, value) {
+		LocalStorage._observers.forEach(observer => observer(key, value))
 	}
 }
 
 chrome.storage.onChanged.addListener(function (changes) {
 	for (let key in changes) {
-		Storage.onChange.notify(key, changes[key].newValue)
+		LocalStorage.notify(key, changes[key].newValue)
 	}
 })
 
-export default Storage
+export default LocalStorage

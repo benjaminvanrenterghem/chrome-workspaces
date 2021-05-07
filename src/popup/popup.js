@@ -57,14 +57,14 @@ async function createInitialWorkspaces() {
 	const tabs = await chrome.tabs.query({ windowId })
 
 	await Workspace.create({
-		name: "Workspace 1",
+		name: "Blue",
 		tabs: tabs.map(WorkspaceTab.create),
 		color: Color.Palette.BLUE,
 		windowId
 	})
 
 	await Workspace.create({
-		name: "Workspace 2",
+		name: "Green",
 		color: Color.Palette.GREEN
 	})
 }
